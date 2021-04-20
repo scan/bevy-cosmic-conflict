@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "matklad.rust-analyzer",
+    "a5huynh.vscode-ron",
+    "bungcip.better-toml",
+    "cesium.gltf-vscode"
+  ]
+}
